@@ -97,8 +97,8 @@ This makes it compatible with any platform supporting Gunicorn-based Python depl
 
 **[Vatti Manoj]**
 
-- LinkedIn: [your-linkedin-id]((https://www.linkedin.com/in/manoj-vatti-ba952332a/))
-- Live Project: [Deployment Link]
+- LinkedIn: [https://www.linkedin.com/in/manoj-vatti-ba952332a/]
+- Live Project: []
 
 ---
 
