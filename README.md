@@ -98,7 +98,7 @@ This makes it compatible with any platform supporting Gunicorn-based Python depl
 **[Vatti Manoj]**
 
 - LinkedIn: [https://www.linkedin.com/in/manoj-vatti-ba952332a/]
-- Live Project: []
+- Live Project: [https://salary-prediction-ml-oxg7.onrender.com]
 
 ---
 
